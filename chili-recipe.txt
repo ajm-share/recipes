@@ -22,3 +22,5 @@ Directions:
 Add chillies (on Remote)
 
 Add Yello Chilli (On Local)
+
+Add Green Chllies(Remote)
